@@ -1,3 +1,5 @@
+#윤희성의 코드
+
 friends=["똘기", "떵이", "호치", "새초미"]
 select=0
 while select!=9:
